@@ -1,7 +1,0 @@
-C:\Certify\StuffNeededForWork\bin\Debug\StuffNeededForWork.exe.config
-C:\Certify\StuffNeededForWork\bin\Debug\StuffNeededForWork.exe
-C:\Certify\StuffNeededForWork\bin\Debug\Interop.CERTENROLLLib.dll
-C:\Certify\StuffNeededForWork\obj\Debug\StuffNeededForWork.csproj.AssemblyReference.cache
-C:\Certify\StuffNeededForWork\obj\Debug\StuffNeededForWork.csproj.CoreCompileInputs.cache
-C:\Certify\StuffNeededForWork\obj\Debug\StuffNeededForWork.csproj.CopyComplete
-C:\Certify\StuffNeededForWork\obj\Debug\StuffNeededForWork.exe
